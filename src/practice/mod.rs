@@ -1,4 +1,10 @@
 // pub mod product;
 // pub mod placing_marbles;
 // pub mod shift_only;
-pub mod ABC087B_coins;
+// pub mod ABC087B_coins;
+// pub mod AB083B_some_sums;
+// pub mod ABC088B_card_game_for_two;
+// pub mod ABC085B_kagami_mochi;
+// pub mod ABC085C_otoshidama;
+// pub mod ABC049C_hakuchumu;
+pub mod ABC086C_traveling;
